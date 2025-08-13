@@ -1,9 +1,11 @@
 - ## Olá 👋
 
-- **CfilhojBr/CfilhojBr** é um repositório ✨ _especial_ ✨
+- _**CfilhojBr/CfilhojBr**_ é um repositório ✨ _especial_ ✨
+
 
 - 🔭 Atualmente estou trabalhando na atualçização do sistema https://www.monitor.ind.br
 - 🌱 Atualmente estou aprendendo Inteligência Artificial
 - 👯 Estou buscando colaborar em Planejamento e Controle de Produção
+
 
 - 📫 Como me contatar: joseluis.cfilho@gmail.com
