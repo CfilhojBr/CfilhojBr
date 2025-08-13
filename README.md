@@ -1,6 +1,6 @@
 - ## Olá 👋
 
-**CfilhojBr/CfilhojBr** é um repositório ✨ _especial_ ✨
+- **CfilhojBr/CfilhojBr** é um repositório ✨ _especial_ ✨
 
 - 🔭 Atualmente estou trabalhando na atualçização do sistema https://www.monitor.ind.br
 - 🌱 Atualmente estou aprendendo Inteligência Artificial
