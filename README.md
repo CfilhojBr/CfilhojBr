@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente trabalhando na atualização do sistema FABRICA & MONTA, exibido com o link: [https://www.fabricaemonta.eng.br](https://www.fabricaemonta.eng.br/)
 - 🌱 O Sistema criado com as linguagens HTML, PHP e Javascript; e dados armazenados em banco de dados MySql
-- 👯 A idéia principal do Sistema busca colaborar com o Planejamento e Controle de Produção e montagem de equipamentos industriais (Metalmecânica).
+- 👯 A idéia principal do Sistema busca colaborar com o Planejamento e Controle de fabricação e montagem de peças e equipamentos industriais (Metalmecânica).
 
 
 - 📫 Como me contatar: admin@fabricaemonta.eng.br
