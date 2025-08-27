@@ -13,6 +13,9 @@ Minhas experiências:
 - 💬 Lançamento de informações dos processos nas plataformas do Setor;
 - 📫 Arquivamento de Documentos para consultas futuras;
 - 😄 E outras atividades que sempre aparecem!!!
-- 
+  
 - ⚡ Nas horas de folga papear com grandes amizades criadas nesses anos de trabalho!!!
-- 📫 Como me contatar: admin@fabricaemonta.eng.br
+  
+- 📫 Contato:
+- admin@fabricaemonta.eng.br
+- https://www.facebook.com/joseluis.cfilho.oficial
